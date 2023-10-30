@@ -1,6 +1,6 @@
-let express = require('express');
+const express = require('express');
 //console.log(express); para ver todas los métodos que implementa el paquete express
-let app = express();
+const app = express();
 
 //console.log(app)
 
